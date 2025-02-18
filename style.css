@@ -179,6 +179,22 @@ a {
         margin-bottom: 20px; /* Ajuste de margem para mover o texto mais para cima */
     }
 
+    #texto-video .content-wrapper {
+        max-width: 80%; /* Aumentar a largura para mais visibilidade */
+    }
+
+    #texto-video h5 {
+        font-size: 1rem; /* Diminui o tamanho do título */
+    }
+
+    #texto-video p {
+        font-size: 1rem; /* Diminui o tamanho do texto */
+    }
+
+    #texto-video .btn {
+        font-size: 0.7rem; /* Diminui o tamanho do botão */
+    }
+
     #chuteiras {
         padding-top: 100px;
     }
